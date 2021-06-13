@@ -1,9 +1,3 @@
-<p align='center'>
-	<a href='https://www.linkedin.com/in/erickvicentin/'>
-		<img src='./assets/erick-photo.jpeg' height=100 width=100 style='border-radius:50%'>
-	</a>
-</p>
-
 <h1 align="center">Hi 👋 I'm Erick Vicentin</h1>
 <h3 align="center" style='margin-top:0''>Test Automation Engineer at Globant - A passionate front-end developer for hobby</h3>
 
